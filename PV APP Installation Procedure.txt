@@ -1,0 +1,10 @@
+INSTALLATION PROCESS
+step1: Create an account suppose to be a parent on signup page (http://db.zeentechno.com/signup)
+step2: After creating account install the app in mobile with PV debug APK (https://drive.google.com/drive/u/1/my-drive)
+step3: While installation the apk in mobile the mobile ask to permit installation from unknown source, allowed it. 
+step4: Once application installation complete, different mobile devices ask to allow different permit, my device version 6.0.1 so i will update you accordingly.
+step5: As intallation completed you will see screen where the app required to get permission of (permit drawing over other app) enable this function and press the back button
+step6: when you press back button the next secreen come up of usage data access, you will see th e PV app icon press it and, that reach you on next screen where you enable allow usage tracking.
+step 7: when you done the above part the press back button you will see the pup up of allow sms, press allow. the automatically sign in screen show up, enter the login detail. as you complete pop up show that (unfortunatily pv has stop working)
+        and you see a a screen (permit drawing over other apps) make enable this function and on right corner you will see (i) function press it and allow all access (camara, contacts, locatio, phone sms)
+step 8: when you complete above work please enablae location in mobile setting so app work properly and use only mobile data internet for right now and connect mobile data with your laptop same time while you testing with hotspot on because we tested code by static IP.
